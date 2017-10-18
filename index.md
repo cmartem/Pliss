@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Авторские краеведческие прогулки-экскурсии
+для взрослых и детей любого возраста :) по исторической Москве (от Маяковки до Сокола, от Пресни до Тимирязевки, и не только). Важнейшие события и смены эпох, войны и мир, взлёты и падения, подвиги и разгул страстей, драмы и комедии, байки, мифы и легенды - жизнь простых людей и исторических деятелей в декорациях привычных и давно знакомых улиц, домов и парков.
 
-You can use the [editor on GitHub](https://github.com/cmartem/Pliss/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## БЛИЖАЙШИЕ ЭКСКУРСИИ:
+21.10 (СБ), 15.00 - От Лесной до улицы Правды (МКН)
+22.10 (ВС), 14.00 - Район "Сокол" и посёлок художников (CM)
+28.10 (СБ), 15.00 - Пресня - Грузины (МКН)
+29.10 (ВС), 14.00 - Пресня - Тишинка. Премьера (CM)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cozy Moscow
+Организаторы экскурсий - "CozyMoscow (CM)" и "Москва, которой нет (МКН)".
 
-### Markdown
+Запись на экскурсии: CozyMoscow - по почте glavred@cozymoscow.me, "Москва, которой нет" (МКН) - через сайт moskva.kotoroy.net.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Запись не обязательна (если не указано иное), но даёт возможность прогнозировать количество участников и информировать вас об изменениях и отменах. Если вы и другие не запишетесь и группа не набирается - экскурсия будет отменена, а вас об этом не предупредят. Места встреч указаны здесь, в том числе, на карте. Маршруты могут произвольно меняться. Если вас интересуют конкретные объекты, предварительно свяжитесь со мной.
 
-```markdown
-Syntax highlighted code block
+Посещение музеев указывается отдельно. В зимний сезон экскурсии не прекращаются, но они короче и проводятся реже. Одевайтесь *ОЧЕНЬ ТЕПЛО*, 2-3 часа экскурсии -- не привычная краткая пробежка!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmartem/Pliss/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Также провожу индивидуальные и групповые экскурсии на заказ, пешеходные или на вашем транспорте. Заказать экскурсию индивидуальную и для малой группы можно здесь, для больших групп - у организаторов.
