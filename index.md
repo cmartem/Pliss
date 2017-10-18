@@ -11,7 +11,7 @@
 + 29.10 (ВС), 14.00 - Пресня - Тишинка. Премьера (CM)
 
 ### Cozy Moscow
-Организаторы экскурсий - [CozyMoscow (CM)]:(http://cozymoscow.me/) и [Москва, которой нет (МКН)]:(http://moskva.kotoroy.net/zapis_progulki/).
+Организаторы экскурсий - CozyMoscow (CM):(http://cozymoscow.me/) и Москва, которой нет (МКН):(http://moskva.kotoroy.net/zapis_progulki/).
 
 Запись на экскурсии: CozyMoscow - по почте glavred@cozymoscow.me, "Москва, которой нет" (МКН) - через сайт moskva.kotoroy.net.
 
